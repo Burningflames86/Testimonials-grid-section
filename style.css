@@ -10,6 +10,7 @@ body{
     grid-template-columns: 11fr 3fr;
     grid-auto-rows: 300px;
     row-gap: 40px;
+    margin-top:40px;
 }.cont1,.cont3{
     display: grid;
 }.cont2{
